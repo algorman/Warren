@@ -1,0 +1,53 @@
+h1 {
+	color: DarkSlateGrey;
+	font-size: 64pt;
+	text-align: center;
+}
+
+p{
+	margin: 10px 5px 15px 20px;
+  	font-family: "Times New Roman", Times, serif;
+}
+
+body{
+	background-color: Gainsboro;
+}
+
+#Gull{
+	color: Plum;
+	background-color: WhiteSmoke;
+	font-size: 24pt;
+}
+
+#Warren{
+	text-align: center;
+	font-style: italic;
+	font-family: "Courier New";
+}
+
+.funny{
+	font-family: "Comic Sans MS";
+}
+
+a{
+	background-color: CadetBlue;
+	border: 10px solid;
+	border-color: LightSalmon;
+	padding: 15px;
+	margin: 55px;
+}
+
+
+img {
+	width: 400px;
+	border: solid; 5px;
+	border-color: blue;
+
+	 display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+#beware{
+	
+}
